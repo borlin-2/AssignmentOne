@@ -1,0 +1,35 @@
+2023-04-21 19:12:17.417 [main] INFO  FacebookTest - This is an info message
+2023-04-21 19:12:17.467 [main] WARN  FacebookTest - This is a warning message
+2023-04-21 19:12:17.490 [main] ERROR FacebookTest - This is an error message
+java.lang.RuntimeException: Oops!
+	at FacebookTest.main(FacebookTest.java:11)
+2023-04-21 19:14:18.871 [main] INFO  FacebookTest - This is an info message
+2023-04-21 19:14:18.883 [main] WARN  FacebookTest - This is a warning message
+2023-04-21 19:14:18.889 [main] ERROR FacebookTest - This is an error message
+java.lang.RuntimeException: Oops!
+	at FacebookTest.main(FacebookTest.java:11)
+2023-04-21 19:15:07.889 [main] INFO  FacebookTest - This is an info message
+2023-04-21 19:15:07.926 [main] WARN  FacebookTest - This is a warning message
+2023-04-21 19:15:07.944 [main] ERROR FacebookTest - This is an error message
+java.lang.RuntimeException: Oops!
+	at FacebookTest.main(FacebookTest.java:11)
+2023-04-21 19:18:19.047 [main] INFO  FacebookTest - This is an info message
+2023-04-21 19:18:19.088 [main] WARN  FacebookTest - This is a warning message
+2023-04-21 19:18:19.096 [main] ERROR FacebookTest - This is an error message
+java.lang.RuntimeException: Oops!
+	at FacebookTest.main(FacebookTest.java:11)
+2023-04-21 23:05:26.426 [main] INFO  FacebookTest - This is an info message
+2023-04-21 23:05:26.426 [main] WARN  FacebookTest - This is a warning message
+2023-04-21 23:05:26.441 [main] ERROR FacebookTest - This is an error message
+java.lang.RuntimeException: Oops!
+	at FacebookTest.main(FacebookTest.java:11)
+2023-04-24 13:31:33.689 [main] INFO  FacebookTest - This is an info message
+2023-04-24 13:31:33.703 [main] WARN  FacebookTest - This is a warning message
+2023-04-24 13:31:33.706 [main] ERROR FacebookTest - This is an error message
+java.lang.RuntimeException: Oops!
+	at FacebookTest.main(FacebookTest.java:11)
+2023-04-24 13:36:16.392 [main] INFO  FacebookTest - This is an info message
+2023-04-24 13:36:16.396 [main] WARN  FacebookTest - This is a warning message
+2023-04-24 13:36:16.403 [main] ERROR FacebookTest - This is an error message
+java.lang.RuntimeException: Oops!
+	at FacebookTest.main(FacebookTest.java:11)
